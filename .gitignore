@@ -1,3 +1,4 @@
 .venv
 *.pkl
 *.pyc
+db.sqlite3
